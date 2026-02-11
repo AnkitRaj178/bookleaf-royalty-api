@@ -1,7 +1,7 @@
 # BookLeaf Royalty API
 
 # Tech Used
-I used Node.js with Express to build a simple and clean REST API because it is easy to structure and suitable for implementing backend business logic. I also used the CORS package to allow requests for external testing as required.
+I used Node.js with Express to build a simple and clean REST API because it is easy to structure and suitable for implementing backend business logic. I also used the CORS package to allow requests for external testing as required. It is also best for external testing and ensure smooth communication between the frontend and backend.
 
 # Assumptions
 - Data is stored in-memory.
