@@ -15,4 +15,4 @@ I used Node.js with Express to build a simple and clean REST API because it is e
 - Data resets when the server restarts.
 
 # Time Spent
-I spent around 8-10 hours working on this assessment which included designing the folder structure, implementing the API, adding validations, testing all cases and deploying the application on render.
+I spent around 7 hours working on this assessment which included designing the folder structure, implementing the API, adding validations, testing all cases and deploying the application on render.
